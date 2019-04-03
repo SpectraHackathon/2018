@@ -1,0 +1,5 @@
+npm_modules
+.DS_STORE
+images/.DS_STORE
+*.swo
+*.swp
